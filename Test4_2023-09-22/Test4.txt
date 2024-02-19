@@ -1,0 +1,7 @@
+Nombre de la Prueba: Test4
+Nombre del Experimentador: Sebastian
+Fecha y Hora de la Prueba: 2023-09-22 16:48:14
+Altura Total de Barrido (cm): 30.0
+Intervalo (segundos): 1.0
+Valor de paso de motor (cm): -1.0
+Valores del Multimetro 1: [160.0, 152.0, 146.0, 140.0, 134.0, 130.0, 125.0, 121.0, 117.0, 115.0, 111.0, 109.0, 106.0, 103.0, 101.0, 99.0, 97.0, 95.0, 94.0, 92.0, 90.0, 88.0, 87.0, 86.0, 84.0, 83.0, 82.0, 81.0, 80.0, 79.0]

@@ -1,0 +1,7 @@
+Nombre de la Prueba: TEST8
+Nombre del Experimentador: SEBAS
+Fecha y Hora de la Prueba: 2023-09-26 11:38:42
+Altura Total de Barrido (cm): 25.0
+Intervalo (segundos): 5.0
+Valor de paso de motor (cm): -2.0
+Valores del Multimetro 1: [-8.0, -7.0, -8.0, -9.0, -10.0, -12.0, -13.0, -25.0, -48.0, -76.0, -99.0, -120.0]

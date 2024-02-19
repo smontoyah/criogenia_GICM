@@ -1,0 +1,6 @@
+Nombre de la Prueba: test
+Fecha y Hora de la Prueba: 2023-11-02 18:27:38
+Nombre del Experimentador: sebas_vale
+Altura Total de Barrido (cm): 35
+Intervalo (segundos): 1
+Valor de paso de motor (cm): -1
